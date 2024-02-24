@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Metronome</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div>
+      <label>
+        Song
+        <select id="song"></select>
+      </label>
+      <div class="flex">
+        <input type="number" id="bpm" value="0" />
+        <div>
+          <p>bpm</p>
+          <p>Leave it 0 bpm for using the song bpm</p>
+        </div>
+      </div>
+      <button id="play-button">Play</button>
+      <div class="flex counter">
+        <div id="bar">0</div>
+        <div id="beat">0</div>
+      </div>
+    </div>
+
+    <script src="/timesync/timesync.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="createjs.min.js"></script>
+    <script src="metronome.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

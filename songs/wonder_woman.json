@@ -1,0 +1,20 @@
+{
+  "title": "Wonder Woman",
+  "artist": "Mulan Jameela",
+  "bpm": 120,
+  "bpb": 4,
+  "bar": 138,
+  "structure": {
+    "2": "intro",
+    "10": "verse",
+    "28": "chorus",
+    "42": "intro",
+    "46": "verse",
+    "64": "chorus",
+    "78": "intro",
+    "82": "instrumental",
+    "100": "chorus",
+    "116": "chorus",
+    "130": "outro"
+  }
+}

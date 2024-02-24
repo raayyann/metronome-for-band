@@ -1,0 +1,20 @@
+{
+  "title": "Anything You Want",
+  "artist": "Reality Club",
+  "bpm": 176,
+  "bpb": 4,
+  "bar": 172,
+  "structure": {
+    "1": "verse",
+    "17": "prechorus",
+    "37": "chorus",
+    "60": "instrumental",
+    "73": "verse",
+    "89": "prechorus",
+    "109": "chorus",
+    "157": "outro"
+  },
+  "instumental": {
+    "59": "anything_you_want_solo.mp3"
+  }
+}

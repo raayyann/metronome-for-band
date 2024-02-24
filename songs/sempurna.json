@@ -1,0 +1,21 @@
+{
+  "title": "Sempurna",
+  "artist": "Andra and The BackBone",
+  "bpm": 98,
+  "bpb": 4,
+  "bar": 105,
+  "structure": {
+    "1": "intro",
+    "5": "verse",
+    "13": "verse",
+    "21": "prechorus",
+    "27": "chorus",
+    "40": "verse",
+    "48": "prechorus",
+    "54": "chorus",
+    "67": "instrumental",
+    "71": "prechorus",
+    "77": "chorus",
+    "99": "outro"
+  }
+}
