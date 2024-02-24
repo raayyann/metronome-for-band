@@ -1,13 +1,17 @@
 {
   "title": "Raining Again",
   "artist": "Ryryry",
-  "bpm": 134,
-  "bpb": 4,
+  "bpm": 140,
+  "bpb": 3,
   "bar": 78,
   "structure": {
-    "1": "verse",
-    "27": "chorus",
-    "51": "instrumental",
-    "75": "outro"
+    "1": "intro",
+    "5": "intro",
+    "13": "verse",
+    "45": "chorus",
+    "77": "instrumental",
+    "93": "verse",
+    "125": "chorus",
+    "157": "outro"
   }
 }
