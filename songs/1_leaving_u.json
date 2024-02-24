@@ -1,0 +1,17 @@
+{
+  "title": "Leaving U",
+  "artist": "Ryryry",
+  "bpm": 140,
+  "bpb": 3,
+  "bar": 78,
+  "structure": {
+    "1": "intro",
+    "5": "intro",
+    "13": "verse",
+    "45": "chorus",
+    "77": "instrumental",
+    "93": "verse",
+    "125": "chorus",
+    "157": "outro"
+  }
+}
