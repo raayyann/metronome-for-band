@@ -43,10 +43,11 @@ io.on("connection", (socket) => {
 
   socket.on("join", (room) => {
     socket.join(room);
+    socket.room = room;
   });
 
   socket.on("play", (song) => {
-    io.emit("play", song, Date.now() + 1000);
+    io.to(socket.room).emit("play", song, Date.now() + 1000);
   });
 });
 
