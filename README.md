@@ -4,7 +4,7 @@
 
 An application that allows musicians to use a metronome with their band members at the same time (synced metronome) with the song structure
 
-[Demo](https://metronome.rayy.my.id)
+[Demo](https://metronome.ray.toys)
 
 ## Creating the song file
 
